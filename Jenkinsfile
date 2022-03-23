@@ -54,4 +54,4 @@ pipeline {
                 
 }
 
-// Scripted: Es más potente, más fiable... menos cómoda. LA BUENA !!
+// Scripted: Es más potente, más fiable.
