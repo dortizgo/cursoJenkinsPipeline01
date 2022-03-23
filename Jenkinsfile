@@ -53,5 +53,3 @@ pipeline {
                 }
                 
 }
-
-// Scripted: Es más potente, más fiable.
