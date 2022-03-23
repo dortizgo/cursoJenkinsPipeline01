@@ -51,5 +51,5 @@ pipeline {
                 failure {
                     echo 'Se ejecuta solo si los steps han ido mal'
                 }
-                
+    }            
 }
